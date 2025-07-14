@@ -4,6 +4,7 @@ about: Describe un error que hayas encontrado en la plataforma No estás solx
 title: "[BUG] Escribe un título descriptivo aquí"
 labels: bug
 assignees: 'Marulix, ncarvajalc'
+type: 'bug'
 
 ---
 
