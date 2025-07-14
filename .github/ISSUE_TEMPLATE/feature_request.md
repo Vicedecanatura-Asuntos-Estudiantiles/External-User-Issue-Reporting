@@ -4,6 +4,7 @@ about: Proponer una nueva funcionalidad o mejora para la plataforma No estás so
 title: "[MEJORA] Escribe un título descriptivo aquí"
 labels: enhancement
 assignees: 'Marulix, ncarvajalc'
+type: 'Feature'
 
 ---
 
