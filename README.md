@@ -1,7 +1,7 @@
 # 🛠️ External User Issue Reporting – *No estás solx*
 
 ¡Bienvenid@! 👋  
-Este repositorio está diseñado para que l@s coordinadores de programas académicos puedan reportar errores y sugerir mejoras en la plataforma **No estás solx**.
+Este repositorio está diseñado para que los coordinadores de programas académicos puedan reportar errores y sugerir mejoras en la plataforma **No estás solx**.
 
 ## 🎯 ¿Para qué sirve este repositorio?
 
@@ -14,17 +14,30 @@ Todas las solicitudes serán evaluadas por el equipo técnico, quien definirá s
 > ⚠️ **Importante:** No todas las sugerencias serán implementadas, pero todas serán consideradas con seriedad.
 
 ---
+## 🧾 ¿Qué necesito para reportar?
 
-## 📝 ¿Cómo reportar una sugerencia o error?
+Para crear un reporte necesitas tener una cuenta en GitHub.  
+Si aún no tienes una, puedes crearla gratis aquí 👉 [Crear cuenta en GitHub](https://github.com/signup)
 
-1. Ve a la pestaña de Issues del repositorio:  
+---
+
+## 📝 ¿Cómo reportar un error o sugerencia?
+
+1. Ingresa a la pestaña de Issues del repositorio:  
    👉 [Ir a Issues](https://github.com/Vicedecanatura-Asuntos-Estudiantiles/External-User-Issue-Reporting/issues)
-2. Haz clic en el botón **"New Issue"**.
-3. Agrega:
-   - Un **título claro** que resuma el problema o sugerencia.
-   - Una **descripción detallada** del error o propuesta.
 
-Nuestro equipo revisará tu solicitud lo antes posible.
+2. Haz clic en el botón **"New Issue"** (Nueva solicitud). Aquí se te pedirá que inicies sesión con tu cuenta de Github.
+
+3. Selecciona el tipo de reporte que quieres hacer:
+
+   - 🐞 **"Reportar un error"** – Para describir fallos o comportamientos inesperados de la plataforma.
+   - 💡 **"Sugerencia de mejora"** – Para proponer nuevas funcionalidades o mejoras.
+
+4. Completa el formulario que aparece, siguiendo las preguntas que te guiarán paso a paso.
+
+5. Haz clic en **"Submit new issue"** (Enviar nueva solicitud) cuando hayas terminado.
+
+¡Y listo! Tu solicitud será revisada por el equipo técnico y se te notificará si se requieren más detalles.
 
 ---
 
