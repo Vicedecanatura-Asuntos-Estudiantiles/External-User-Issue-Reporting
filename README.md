@@ -1,7 +1,7 @@
 # 🛠️ External User Issue Reporting – *No estás solx*
 
 ¡Bienvenid@! 👋  
-Este repositorio está diseñado para que l@s coordinador@s de programas académicos puedan reportar errores y sugerir mejoras en la plataforma **No estás solx**.
+Este repositorio está diseñado para que l@s coordinadores de programas académicos puedan reportar errores y sugerir mejoras en la plataforma **No estás solx**.
 
 ## 🎯 ¿Para qué sirve este repositorio?
 
@@ -15,7 +15,7 @@ Todas las solicitudes serán evaluadas por el equipo técnico, quien definirá s
 
 ---
 
-## 📝 ¿Cómo reportar una issue?
+## 📝 ¿Cómo reportar una sugerencia o error?
 
 1. Ve a la pestaña de Issues del repositorio:  
    👉 [Ir a Issues](https://github.com/Vicedecanatura-Asuntos-Estudiantiles/External-User-Issue-Reporting/issues)
