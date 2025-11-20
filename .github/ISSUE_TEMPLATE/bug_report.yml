@@ -43,14 +43,42 @@ body:
     id: evidencia
     attributes:
       label: "📸 Capturas o evidencia (opcional)"
-      description: Agrega imágenes, videos o enlaces que nos ayuden a entender mejor el problema.
-      placeholder: Arrastra y suelta archivos aquí o pega enlaces relevantes.
-  - type: textarea
-    id: entorno
+      description: Agrega imágenes, videos o enlaces que nos ayuden a entender mejor el problema. No incluyas información sensible.
+      placeholder: Arrastra y suelta archivos aquí o pega enlaces relevantes. No incluyas información sensible.
+  - type: dropdown
+    id: dispositivo
     attributes:
-      label: "💻 Dispositivo y navegador"
-      description: Cuéntanos desde qué dispositivo y navegador reprodujiste el error.
-      value: |
-        - Dispositivo: Computador / Celular / Tablet
-        - Navegador: Chrome, Firefox, Safari, etc.
-        - ¿Estás en modo incógnito?: Sí / No
+      label: "💻 Dispositivo"
+      description: ¿Desde qué dispositivo reproduciste el error?
+      options:
+        - Computador
+        - Celular
+        - Tablet
+        - Otro
+    validations:
+      required: true
+  - type: dropdown
+    id: navegador
+    attributes:
+      label: "🌐 Navegador"
+      description: Selecciona todos los navegadores en los que viste el problema.
+      multiple: true
+      options:
+        - Chrome
+        - Firefox
+        - Safari
+        - Microsoft Edge
+        - Opera
+        - Otro
+    validations:
+      required: true
+  - type: dropdown
+    id: modo-incognito
+    attributes:
+      label: "🕶️ ¿Modo incógnito?"
+      description: ¿Estabas usando una ventana en modo privado/incógnito?
+      options:
+        - Sí
+        - No
+    validations:
+      required: true
