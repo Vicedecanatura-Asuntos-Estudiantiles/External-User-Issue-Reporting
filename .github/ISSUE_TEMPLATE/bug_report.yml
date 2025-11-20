@@ -6,6 +6,8 @@ labels:
 assignees:
   - Marulix
   - ncarvajalc
+projects:
+  - Vicedecanatura-Asuntos-Estudiantiles/4
 type: bug
 body:
   - type: markdown
