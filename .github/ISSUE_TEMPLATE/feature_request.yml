@@ -1,0 +1,45 @@
+name: "💡 Sugerencia de mejora"
+description: Proponer una nueva funcionalidad o mejora para la plataforma No estás solx
+title: "[MEJORA] Escribe un título descriptivo aquí"
+labels:
+  - enhancement
+assignees:
+  - Marulix
+  - ncarvajalc
+projects:
+  - Vicedecanatura-Asuntos-Estudiantiles/4
+type: Feature
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ¡Gracias por compartir una idea para mejorar No estás solx!
+
+        Completa los campos siguientes para que podamos evaluar y priorizar tu solicitud.
+  - type: textarea
+    id: propuesta
+    attributes:
+      label: "✨ ¿Qué quieres proponer?"
+      description: Describe brevemente la mejora que sugieres.
+      placeholder: |
+        Ejemplo: Sería útil que los formularios recordaran mi información básica para no tener que llenarla cada vez.
+    validations:
+      required: true
+  - type: textarea
+    id: beneficio
+    attributes:
+      label: "🎯 ¿Por qué sería útil?"
+      description: Explica cómo beneficiaría a l@s usuari@s o al equipo.
+    validations:
+      required: true
+  - type: textarea
+    id: ubicacion-mejora
+    attributes:
+      label: "📌 ¿Dónde aplicaría?"
+      description: Indica en qué parte de la plataforma se implementaría la mejora. Incluye enlaces si aplica.
+  - type: textarea
+    id: comentarios
+    attributes:
+      label: "📝 Comentarios adicionales o imágenes (opcional)"
+      description: Agrega detalles, referencias o adjuntos que ayuden a entender mejor tu propuesta.
+      placeholder: Arrastra y suelta archivos aquí o pega enlaces relevantes. No incluyas información sensible.
